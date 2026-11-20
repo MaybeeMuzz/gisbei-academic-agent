@@ -1,0 +1,6 @@
+﻿discord.py
+tavily-python
+python-dotenv
+google-genai
+groq
+openai
