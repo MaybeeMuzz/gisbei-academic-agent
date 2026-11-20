@@ -1,0 +1,20 @@
+# Kredensial & environment lokal
+.env
+.env.*
+!.env.example
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Cache Python & database lokal
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+
+# File sistem / editor
+.DS_Store
+Thumbs.db
+.vscode/
